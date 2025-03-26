@@ -1,0 +1,41 @@
+name: shopping_cart_app
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/phone1.jpeg
+    - assets/images/phone2.jpeg
+    - assets/images/phone3.jpeg
+    - assets/images/phone4.jpeg
+    - assets/images/phone5.jpeg
+    - assets/images/phone6.jpeg
+    - assets/images/phone7.jpeg
+    - assets/images/phone8.jpeg
+    - assets/images/phone9.jpeg
+    - assets/images/phone10.jpeg
+    - assets/images/phone11.jpeg
+    - assets/images/phone12.jpeg
+    - assets/images/phone13.jpeg
+    - assets/images/phone14.jpeg
+    - assets/images/phone15.jpeg
+    - assets/images/phone16.jpeg
+    - assets/images/phone17.jpeg
+    - assets/images/phone18.jpeg
+    - assets/images/phone19.jpeg
+    - assets/images/phone20.jpeg
